@@ -24,9 +24,9 @@ const Header = () => {
           <img src={Amazon} className="logo"></img>
           <img src={BookStore} className="logo"></img>
           <Search
-              placeholder="Find A Product"
+              placeholder="Find A Products"
               enterButton
-              className = "searchBar"
+              className = "searchBars"
             />
          <Button 
          className="login"
